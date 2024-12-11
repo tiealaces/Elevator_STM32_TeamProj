@@ -1,0 +1,5 @@
+# STM IDE Debug folder
+Debug/
+
+# STM IDE settings folder
+.settings/
